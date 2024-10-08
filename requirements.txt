@@ -1,0 +1,10 @@
+smtplib
+pyautogui
+pyttsx3
+SpeechRecognition
+PyQt5
+requests
+wikipedia-api
+webbrowser
+pywhatkit
+pyjokes
